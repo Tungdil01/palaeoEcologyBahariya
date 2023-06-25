@@ -23,5 +23,6 @@ jupyterthemes==0.20.0
 # Plotting
 matplotlib==3.3.2
 seaborn==0.12.2
+colorcet
 bokeh==3.1.0
 altair==4.0.1
